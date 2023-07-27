@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="65" height="65" viewBox="0 0 65 65">
+  <g id="image" transform="translate(0 -4)">
+    <rect id="Rectangle_9" data-name="Rectangle 9" width="65" height="65" transform="translate(0 4)" fill="#fff"/>
+    <g id="docx_icon" transform="translate(-2.563 5.583)">
+      <path id="Path_32" data-name="Path 32" d="M45.075,5.417H20.565a1.22,1.22,0,0,0-1.22,1.22V54.226a1.22,1.22,0,0,0,1.22,1.22H55.952a1.22,1.22,0,0,0,1.22-1.22V17.514a1.22,1.22,0,0,0-.357-.863L45.938,5.774A1.22,1.22,0,0,0,45.075,5.417Z" transform="translate(-2.783)" fill="#fff" stroke="#979593" stroke-miterlimit="10" stroke-width="1.548"/>
+      <path id="Path_33" data-name="Path 33" d="M51.845,5.417V16.4a1.22,1.22,0,0,0,1.22,1.22H64.048" transform="translate(-9.658)" fill="none" stroke="#979593" stroke-miterlimit="10" stroke-width="1.548"/>
+      <path id="Path_34" data-name="Path 34" d="M56.056,43.929H37.143v-1.22H56.056a.61.61,0,1,1,0,1.22Zm0-3.661H37.143v-1.22H56.056a.61.61,0,1,1,0,1.22Zm0-3.661H37.143v-1.22H56.056a.61.61,0,1,1,0,1.22Zm0-3.661H37.143v-1.22H56.056a.61.61,0,1,1,0,1.22Zm0,14.643H37.143v-1.22H56.056a.61.61,0,1,1,0,1.22Z" transform="translate(-6.548 -5.566)" fill="#c8c6c4"/>
+    </g>
+  </g>
+</svg>

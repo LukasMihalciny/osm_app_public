@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="24" viewBox="0 0 120 24">
+  <g id="field-radio-check" transform="translate(-113 -460)">
+    <rect id="Rectangle_16" data-name="Rectangle 16" width="120" height="24" transform="translate(113 460)" fill="none"/>
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(114 461)" fill="#fff" stroke="#ccc" stroke-width="1">
+      <circle cx="11" cy="11" r="11" stroke="none"/>
+      <circle cx="11" cy="11" r="10.5" fill="none"/>
+    </g>
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(138 461)" fill="#fff" stroke="#ccc" stroke-width="1">
+      <circle cx="11" cy="11" r="11" stroke="none"/>
+      <circle cx="11" cy="11" r="10.5" fill="none"/>
+    </g>
+    <g id="Rectangle_17" data-name="Rectangle 17" transform="translate(162 461)" fill="#fff" stroke="#ccc" stroke-width="1">
+      <rect width="22" height="22" stroke="none"/>
+      <rect x="0.5" y="0.5" width="21" height="21" fill="none"/>
+    </g>
+    <g id="Rectangle_18" data-name="Rectangle 18" transform="translate(186 461)" fill="#fff" stroke="#ccc" stroke-width="1">
+      <rect width="22" height="22" stroke="none"/>
+      <rect x="0.5" y="0.5" width="21" height="21" fill="none"/>
+    </g>
+    <g id="Rectangle_19" data-name="Rectangle 19" transform="translate(210 461)" fill="#fff" stroke="#cc004c" stroke-width="1">
+      <rect width="22" height="22" stroke="none"/>
+      <rect x="0.5" y="0.5" width="21" height="21" fill="none"/>
+    </g>
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="5" cy="5" r="5" transform="translate(144 467)" fill="#2a77d1"/>
+    <path id="correct8" d="M66.462,26.933,64.531,25a1.371,1.371,0,0,0-1.93,0L53.29,34.328,49.117,30.14a1.371,1.371,0,0,0-1.93,0l-1.93,1.93a1.371,1.371,0,0,0,0,1.93l5.138,5.138,1.93,1.93a1.371,1.371,0,0,0,1.93,0l1.93-1.93L66.462,28.863a1.371,1.371,0,0,0,0-1.93Z" transform="translate(141.141 439.395)" fill="#2a77d1"/>
+  </g>
+</svg>
