@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="36px" height="36px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 360 360"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:none}
+    .fil1 {fill:#AB0534}
+   ]]>
+  </style>
+ </defs>
+ <g id="Default">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1676903368336">
+   <polygon class="fil0" points="0,0 360,0 360,360 0,360 "/>
+   <path class="fil1" d="M178 25c17,0 30,14 30,30 0,17 -14,30 -30,30 -17,0 -30,-14 -30,-30 0,-17 14,-30 30,-30zm56 72c-8,2 -13,11 -11,19l17 63c2,7 11,13 19,11 8,-2 13,-11 11,-19l-17 -63c-3,-11 -11,-13 -19,-11zm-112 0c7,0 12,11 10,17l-16 58c-2,7 -10,12 -17,10 -6,-2 -13,-5 -10,-17l16 -58c2,-7 10,-12 17,-10zm77 106c8,0 14,6 14,14l0 29c0,8 -6,14 -14,14 -8,0 -14,-6 -14,-14l0 -29c0,-8 6,-14 14,-14zm-42 0c8,0 15,7 15,15l0 103c0,8 -7,15 -15,15 -8,0 -15,-7 -15,-15l0 -103c0,-8 7,-15 15,-15zm1 -104l41 0c8,0 15,7 15,15l0 65c0,8 -7,15 -15,15l-41 0c-8,0 -15,-7 -15,-15l0 -65c0,-8 7,-15 15,-15z"/>
+  </g>
+ </g>
+</svg>
