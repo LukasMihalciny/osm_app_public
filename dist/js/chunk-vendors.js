@@ -1,4 +1,4 @@
-"use strict";(self["webpackChunkosmapp_webpack_3x25x"]=self["webpackChunkosmapp_webpack_3x25x"]||[]).push([[504],{33:function(e,t,n){
+"use strict";(self["webpackChunkosmapp_webpack_3xx"]=self["webpackChunkosmapp_webpack_3xx"]||[]).push([[504],{33:function(e,t,n){
 /**
 * @vue/shared v3.5.17
 * (c) 2018-present Yuxi (Evan) You and Vue contributors
