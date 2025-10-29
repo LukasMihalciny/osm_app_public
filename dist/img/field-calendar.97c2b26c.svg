@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="field-calendar" transform="translate(-307 -126)">
+    <rect id="Rectangle_10" data-name="Rectangle 10" width="36" height="36" transform="translate(307 126)" fill="#6e6e6e"/>
+    <g id="calendar" transform="translate(315.375 134.89)">
+      <path id="Path_23" data-name="Path 23" d="M16.553,1.6h-.031V3.228a1.844,1.844,0,1,1-3.689,0V1.6H6.977V3.228a1.845,1.845,0,1,1-3.69,0V1.6H2.471A1.855,1.855,0,0,0,.625,3.47V16.245A1.855,1.855,0,0,0,2.471,18.11c.013,0,.026,0,.041,0H16.488v0c.022,0,.044.006.066.006A1.854,1.854,0,0,0,18.4,16.245V3.47A1.857,1.857,0,0,0,16.553,1.6Zm-.245,6.709v7.7H2.716V5.512H16.308v2.8Z" transform="translate(0 0)" fill="#fff"/>
+      <path id="Path_25" data-name="Path 25" d="M6.625,6.771V8.326h2v-2h-2Z" transform="translate(-1.69 0.32)" fill="#fff"/>
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="2" height="2" transform="translate(4.935 9.801)" fill="#fff"/>
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="2" height="2" transform="translate(4.935 12.955)" fill="#fff"/>
+      <path id="Path_26" data-name="Path 26" d="M9.625,6.771V8.326h2v-2h-2Z" transform="translate(-1.112 0.32)" fill="#fff"/>
+      <rect id="Rectangle_7" data-name="Rectangle 7" width="2" height="2" transform="translate(8.513 9.801)" fill="#fff"/>
+      <rect id="Rectangle_8" data-name="Rectangle 8" width="2" height="2" transform="translate(8.513 12.955)" fill="#fff"/>
+      <path id="Path_27" data-name="Path 27" d="M12.625,6.771V8.326h2v-2h-2Z" transform="translate(-0.534 0.32)" fill="#fff"/>
+      <rect id="Rectangle_9" data-name="Rectangle 9" width="2" height="2" transform="translate(12.091 9.801)" fill="#fff"/>
+      <path id="Path_28" data-name="Path 28" d="M4.936,4.167A1.016,1.016,0,0,0,5.951,3.151V1.126h0a1.015,1.015,0,1,0-2.03,0h0V3.15A1.016,1.016,0,0,0,4.936,4.167Z" transform="translate(0.17)" fill="#fff"/>
+      <path id="Path_29" data-name="Path 29" d="M14.065,4.167a1.015,1.015,0,0,0,1.014-1.016V1.126h0a1.014,1.014,0,1,0-2.028,0h0V3.151A1.017,1.017,0,0,0,14.065,4.167Z" transform="translate(0.774)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
